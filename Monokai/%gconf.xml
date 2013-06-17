@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<gconf>
+	<entry name="use_theme_background" mtime="1371457972" type="bool" value="false"/>
+	<entry name="use_theme_colors" mtime="1371458304" type="bool" value="false"/>
+	<entry name="bold_color_same_as_fg" mtime="1371457972" type="bool" value="true"/>
+	<entry name="bold_color" mtime="1371458304" type="string">
+		<stringvalue>#FF99FF88FF55</stringvalue>
+	</entry>
+	<entry name="foreground_color" mtime="1371463097" type="string">
+		<stringvalue>#F6F6F5F5EEEE</stringvalue>
+	</entry>
+	<entry name="background_color" mtime="1371463001" type="string">
+		<stringvalue>#1D1D1D1D1919</stringvalue>
+	</entry>
+	<entry name="palette" mtime="1371462754" type="string">
+		<stringvalue>#1C1C1D1D1919:#D0D01B1A2424:#A7A7D3D32C2C:#D8D8CFCF6767:#6161B8B8D0D0:#69695A5ABBBB:#D5D538386464:#FEFEFFFFFEFE:#1C1C1D1D1919:#D1D12A292423:#A7A7D3D32C2C:#D8D8CFCF6767:#6161B8B8D0D0:#69695A5ABBBB:#D5D538386464:#FEFEFFFFFEFE</stringvalue>
+	</entry>
+	<entry name="visible_name" mtime="1371458304" type="string">
+		<stringvalue>Monokai</stringvalue>
+	</entry>
+</gconf>
